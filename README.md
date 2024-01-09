@@ -11,5 +11,9 @@ Welcome to stage 2 of Artificial Intelligence Program! This repository contains 
 | Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 3]() | [Exercise 1]() [Exercise 2]()
 | Applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 4]() | [Exercise 1]() [Exercise 2]() [Exercise 3]()
 
+## Cool Sites
+
+- [Interactive Linear Regression](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression) | [Visual Deep Dive into Linear Regression](https://mlu-explain.github.io/linear-regression/) (*I personally prefer this one)
+
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
