@@ -1,1 +1,15 @@
-# IAI-24-CodingExercises
+# Stage 2: Introduction to Artificial Intelligence
+ 
+Welcome to stage 2 of Artificial Intelligence Program! This repository contains lecture slides and tutorials in Python that will help you learn the basics about artificial intelligence.
+
+## Materials (will be updated daily)
+
+| Topic  | Open in Colab|  Slides | Additional Exercises
+| :---:         |     :---:      |  :---: |  :---:
+| Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 1](./Lectures/Day%201.pdf) | [Exercise 1]()
+| Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 2]() | [Exercise 1]() [Exercise 2]()
+| Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 3]() | [Exercise 1]() [Exercise 2]()
+| Applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 4]() | [Exercise 1]() [Exercise 2]() [Exercise 3]()
+
+## Dependencies
+[Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
