@@ -6,9 +6,9 @@ Welcome to stage 2 of Artificial Intelligence Program! This repository contains 
 
 | Topic  | Open in Colab|  Slides PDF | Slides PPTX | Additional Exercises
 | :---:         |     :---:      |  :---: |  :---: | :---:
-| Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RO4NO8q9oceZqDzMGeY4PAiTk2cBr765?usp=sharing)| [Day 1](./Lectures/Day%201.pdf) | [Day 1](./Lectures/Day%201.pptx)| [Exercise 1](./Exercises/day1_Linear_Regression_Basics.ipynb) [Solution 1](./Solutions/day1_Linear_Regression_Basics.ipynb)
-| Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-KFRuzCz5bBOEGhiO_9-2afE1yQmyN0E?usp=sharing) | [Day 2](./Lectures/Day%202.pdf)  | [Day 2](./Lectures/Day%202.pptx)|  [Exercise 1](./Exercises/Hands-on%20session%20Day%202.ipynb)
-| Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 3]() | [Day 3]()|  [Exercise 1]() [Exercise 2]()
+| Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RO4NO8q9oceZqDzMGeY4PAiTk2cBr765?usp=sharing)| [Day 1](./Lectures/Day-1.pdf) | [Day 1](./Lectures/Day-1.pptx)| [Exercise 1](./Exercises/day1_Linear_Regression_Basics.ipynb) [Solution 1](./Solutions/day1_Linear_Regression_Basics.ipynb)
+| Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-KFRuzCz5bBOEGhiO_9-2afE1yQmyN0E?usp=sharing) | [Day 2](./Lectures/Day-2.pdf)  | [Day 2](./Lectures/Day-2.pptx)|  [Exercise 1](./Exercises/Hands-on-session-Day-2.ipynb) [Solution 2](./Solutions/day1_Linear_Regression_Basics.ipynb)
+| Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 3](./Lectures/Day-3.pdf) | [Day 3](./Lectures/Day-3.pptx)|  [Exercise 1]() [Exercise 2]()
 | Applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Day 4]() | [Day 4]()|  [Exercise 1]() [Exercise 2]() [Exercise 3]()
 
 ## Cool Sites
