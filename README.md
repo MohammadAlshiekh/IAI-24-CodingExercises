@@ -14,6 +14,7 @@ Welcome to stage 2 of Artificial Intelligence Program! This repository contains 
 ## Cool Sites
 
 - [Interactive Linear Regression](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression) | [Visual Deep Dive into Linear Regression](https://mlu-explain.github.io/linear-regression/) (*I personally prefer this one)
+- [Useful Documentation for NN in Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html) 
 
 ## Dependencies
 
