@@ -3,6 +3,10 @@
 Welcome to stage 2 of Artificial Intelligence Program! This repository contains lecture slides and tutorials in Python
 that will help you learn the basics about artificial intelligence.
 
+## Exam Link
+
+[Exam and Feedback Link](https://naeemullah-khan.github.io/KAIAI24B2/)
+
 ## Materials (will be updated daily)
 
 |          Topic           |                                                                                                                                                              Open in Colab                                                                                                                                                               |          Slides PDF           |          Slides PPTX           |                                                    Additional Exercises                                                     
